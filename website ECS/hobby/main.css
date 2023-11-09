@@ -1,0 +1,21 @@
+/* Very specific styling */
+* {
+	/* border:1px solid red; */
+	margin:0;
+}
+
+:root {
+	--back1Offset:0
+}
+
+#title {
+	top:2.35in;
+}
+
+img.back {
+	filter: contrast(70%) brightness(40%);
+}
+
+img {
+	width:4.5in;
+}
