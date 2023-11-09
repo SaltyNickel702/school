@@ -1,0 +1,13 @@
+/* Very specific styling */
+
+:root {
+	--back1Offset:0
+}
+
+#title {
+	top:2.75in;
+}
+
+img.back {
+	filter: sepia(100%) hue-rotate(190deg) saturate(900%) contrast(70%) brightness(40%);
+}
