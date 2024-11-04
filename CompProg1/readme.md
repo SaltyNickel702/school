@@ -1,4 +1,4 @@
-# Niko Wolf Protfolio for Beginning Computer Programing 1
+# Niko Wolf Protfolio for Beginning Computer Programing
 - [School Email](mailto:9638206@graniteschools.org)
 - Projected Graduation in 2027
 - Proficient in JS in both Node JS and Web environments
