@@ -11,4 +11,3 @@
 
 ## Known Issues
 - Explosion Sprite Animation sometimes doesn't despawn
-- Haven't Added a score display in Game Over menu
