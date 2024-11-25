@@ -7,3 +7,5 @@
 ## Term 1
 
 ## Term 2
+### Space Game
+- [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term2/SpaceGame)
