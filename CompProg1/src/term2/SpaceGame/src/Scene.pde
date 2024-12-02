@@ -245,6 +245,8 @@ class Demo extends Level {
 int time = 3000;
 class LevelPatch extends Level {
     LevelPatch () {
+        physicsRunning = true;
+        time = 3000;
         addEnemy();
     }
     void addEnemy () {
