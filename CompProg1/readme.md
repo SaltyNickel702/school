@@ -15,4 +15,4 @@
 
 ## Projects done in parallel to Programming Class
 ### Gravity Simulation
-- [GitHub Repo](https://github.com/SaltyNickel702/GravitySim/tree/main)
+- [GitHub Repo](https://github.com/SaltyNickel702/SideProjects/tree/main/GravitySim)
