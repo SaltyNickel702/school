@@ -9,3 +9,7 @@
 ## Term 2
 ### Space Game
 - [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term2/SpaceGame)
+
+##Projects done parallel to Programming Class
+### Gravity Simulation
+- [GitHub Repo](https://github.com/SaltyNickel702/GravitySim/tree/main)
