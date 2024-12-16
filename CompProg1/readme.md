@@ -5,6 +5,8 @@
 - Have done some work with C-based languages
 
 ## Term 1
+### Calculator
+- [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term1/Calculator)
 
 ## Term 2
 ### Space Game
