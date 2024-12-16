@@ -8,6 +8,8 @@
 ## Term 1
 ### Calculator
 - [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term1/Calculator)
+### Ball Physics Simulation (Collision Detection)
+- [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term1/CollisionDetection)
 
 ## Term 2
 ### Space Game
