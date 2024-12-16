@@ -1,6 +1,6 @@
-## Calculator
+# Processing-Built Calculator
 
-# Keybinds
+### Keybinds
 - Num Pad works as you'd think
 - Page Up to square
 - Page Down to square root
