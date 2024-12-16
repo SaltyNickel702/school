@@ -3,6 +3,7 @@
 - Projected Graduation in 2027
 - Proficient in JS in both Node JS and Web environments
 - Have done some work with C-based languages
+- Used the Processing environment with Java
 
 ## Term 1
 ### Calculator
