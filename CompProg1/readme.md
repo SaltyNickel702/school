@@ -19,7 +19,7 @@
 ### Etch a Sketch
 - <img width="200" alt="Screenshot 2024-12-18 at 11 27 05 AM" src="https://github.com/user-attachments/assets/b0daf9cf-24eb-4e1f-a92d-6ad21be7428e" />
 - Drawing program that allows the user to move a point that leaves behind a gradient line.
-- [GitHub Repo](https://github.com/SaltyNickel702/schools/tree/main/CompProg1/src/term1/EtchASketch)
+- [GitHub Repo](https://github.com/SaltyNickel702/school/tree/main/CompProg1/src/term1/EtchASketch)
 
 ## Term 2
 ### Space Game
