@@ -5,6 +5,11 @@
 - Have done some work with C-based languages
 - Used the Processing environment with Java
 
+## Certificates
+- [Exploring Computer Science](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%20I_12162024.pdf)
+- [Computer Programming 1](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%20I_12162024.pdf)
+
+
 ## Term 1
 ### Calculator
 - <img width="150" alt="Calculator Preview" src="https://github.com/user-attachments/assets/2df286ef-1a13-4e3f-bb9d-a2fbe1327c5e" />
