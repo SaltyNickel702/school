@@ -1,3 +1,3 @@
 cd build
-./out
+./out.app
 cd ..

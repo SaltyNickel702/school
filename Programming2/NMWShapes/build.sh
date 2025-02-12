@@ -1,4 +1,4 @@
 cd build
 cmake ..
 cmake --build .
-./out
+./out.app
