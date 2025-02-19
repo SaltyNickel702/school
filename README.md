@@ -9,4 +9,4 @@
 - Programming 1 2024-2025
   - [Overview Page](./CompProg1/)
 - Programming 2 2024-2025
-  - 
+  - [Overview Page](./Programming2/)
