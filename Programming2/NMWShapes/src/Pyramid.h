@@ -3,13 +3,14 @@
 
 class Pyramid {
     private:
-        float width, slantHeight;
+        float width, length, height;
     public:
         Pyramid();
-        Pyramid(float w, float sltH);
+        Pyramid(float w, float l, float h);
         
         void setWidth (float w);
-        void setSlantHeight (float h);
+        void setLength (float l);
+        void setHeight (float h);
 
         float getVolume ();
         float getSurfaceArea ();
