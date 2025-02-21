@@ -7,6 +7,6 @@
 - Exploring Computer Science 2023-2025
   - [Website](https://saltynickel702.github.io/school/website%20ECS/)
 - Programming 1 2024-2025
-  - [Overview Page](./CompProg1/)
+  - [Overview Page](./Programming1/)
 - Programming 2 2024-2025
   - [Overview Page](./Programming2/)
