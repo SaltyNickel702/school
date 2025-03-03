@@ -1,5 +1,5 @@
 ### C++ Group Repo
-- [GitHub Repo](https://github.io/SaltyNickel702/CppGroup/)
+- [GitHub Repo](https://github.com/SaltyNickel702/CppGroup/)
 
 ### Shape Class Builder
 - <img width="342" alt="Running App" src="https://github.com/user-attachments/assets/ba3cb1b1-19f0-470f-a2ef-b0c8e840c936"/>
