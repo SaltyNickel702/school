@@ -5,7 +5,7 @@
 - [Programming 2 C++](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%202%20C%2B%2B_05072025.pdf)
 
 ### Course Work
-- Exploring Computer Science 2023-2025
+- Exploring Computer Science 2023-2024
   - [Website](https://saltynickel702.github.io/school/website%20ECS/)
 - Programming 1 2024-2025
   - [Overview Page](./Programming1/)
