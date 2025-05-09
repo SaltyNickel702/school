@@ -3,6 +3,7 @@
 - [Exploring Computer Science](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%20I_12162024.pdf)
 - [Computer Programming 1](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%20I_12162024.pdf)
 - [Programming 2 C++](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%202%20C%2B%2B_05072025.pdf)
+- [Programming 2 Java](https://github.com/SaltyNickel702/school/blob/main/Certificates/Nicholas%20M%20Wolf_Computer%20Programming%202%20Java%20_05092025.pdf)
 
 ### Course Work
 - Exploring Computer Science 2023-2024
